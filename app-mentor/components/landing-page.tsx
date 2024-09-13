@@ -65,8 +65,8 @@ export function LandingPage() {
         <section className="py-20 px-4 bg-white text-black">
           <h2 className="text-3xl font-bold text-center mb-8">Transforming your potential</h2>
           <p className="text-xl text-gray-600 text-center mb-12 max-w-2xl mx-auto">
-            Become the best version of yourself by accessing to the perspectives and life experiences of others who've been there, done that.
-          </p>
+  Become the best version of yourself by accessing to the perspectives and life experiences of others who&apos;ve been there, done that.
+</p>
           <div className="max-w-4xl mx-auto bg-gray-100 rounded-lg overflow-hidden">
             <Image
               src="/placeholder.svg?height=400&width=800"
@@ -111,7 +111,7 @@ export function LandingPage() {
         <section className="py-20 px-4 bg-gray-50">
           <div className="max-w-6xl mx-auto">
             <div className="flex justify-between items-center mb-8 text-black">
-              <h2 className="text-3xl font-bold">Discover the world's top mentors</h2>
+            <h2 className="text-3xl font-bold">Discover the world&apos;s top mentors</h2>
               <Button variant="outline" className="text-blue-600 border-blue-600">
                 Explore all
               </Button>
